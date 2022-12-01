@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INFO5126 - Lab2</string>
+    <string name="student_name">Danielle Menezes de Mello Miike 0910303</string>
+    <string name="btn_readDB">Read Database</string>
+    <string name="btnDescription">Finish this activity.</string>
+    <string name="tvPlaceholder">Placeholder</string>
+    <string name="imgDescription">Plant image</string>
+</resources>
